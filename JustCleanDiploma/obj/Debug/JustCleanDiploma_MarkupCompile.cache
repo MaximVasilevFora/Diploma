@@ -1,0 +1,20 @@
+﻿JustCleanDiploma
+
+
+winexe
+C#
+.cs
+D:\Maxima\WPF Application\JustCleanDiploma\JustCleanDiploma\obj\Debug\
+JustCleanDiploma
+none
+false
+DEBUG;TRACE
+D:\Maxima\WPF Application\JustCleanDiploma\JustCleanDiploma\App.xaml
+361265231484
+
+4073232638
+20-260881924
+Pages\AdminPages\Audit.xaml;Pages\AdminPages\Clients.xaml;Pages\AdminPages\Goods.xaml;Pages\AdminPages\Money.xaml;Pages\AdminPages\Offices.xaml;Pages\AdminPages\Orders.xaml;Pages\AdminPages\Providers.xaml;Pages\AdminPages\RefuseDeals.xaml;Pages\AdminPages\Sales.xaml;Pages\AdminPages\Services.xaml;Pages\AdminPages\Users.xaml;Pages\AdminPages\WelcomePage.xaml;Windows\AddClient.xaml;Windows\AddGood.xaml;Windows\AddOffice.xaml;Windows\AddOrder.xaml;Windows\AddProvider.xaml;Windows\AddSale.xaml;Windows\AddService.xaml;Windows\AddUser.xaml;Windows\AddUserWithInventation.xaml;Windows\AdminWindow.xaml;Windows\AuthorizationWindow.xaml;Windows\ContentWindow.xaml;Windows\EditClient.xaml;Windows\EditGood.xaml;Windows\EditOffice.xaml;Windows\EditOrder.xaml;Windows\EditProvider.xaml;Windows\EditSale.xaml;Windows\EditService.xaml;Windows\EditUser.xaml;Windows\InvitationWindow.xaml;Windows\PasswordDialogWindow.xaml;Windows\RegistrationWindow.xaml;Windows\SaleGoodDialog.xaml;
+
+False
+
